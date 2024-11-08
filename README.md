@@ -2,7 +2,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Schoolbell&size=36&letterSpacing=4px&pause=100&color=00AEBB&background=FF000000&width=435&lines=about-me+%5E_%5E)](https://git.io/typing-svg)
 <div align="center">
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
-<img src="https://github.com/user-attachments/assets/436f5f0f-5910-4177-b0bd-658cb39de494" height=300 weight=700> <br /> <br />
+<img src="https://github.com/user-attachments/assets/7292617b-7ec9-4d57-a36f-82249827a5cf" height=300 weight=700> <br /> <br />
 </div>
 <div align="center">
   
